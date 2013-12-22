@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
+	fmt.Println("Test for wercker.com")
 	fmt.Println("Hello World!")
 }
